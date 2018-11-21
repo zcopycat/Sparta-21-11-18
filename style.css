@@ -1,0 +1,16 @@
+body {
+	background: pink;
+}
+
+.red {
+	color: #ff0000;
+	font-style: italic;
+
+}
+
+#mainHeading {
+	
+	color: blue;
+	font-weight: bold; 
+	
+}
